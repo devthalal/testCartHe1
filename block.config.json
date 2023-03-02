@@ -1,0 +1,17 @@
+{
+  "name": "cartHe1",
+  "blockId": "pc7DHRAc57eqfPdmqNSwW",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/cartHe1",
+    "ssh": "git@github.com:devthalal/cartHe1.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ]
+}
